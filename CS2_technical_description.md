@@ -4,7 +4,9 @@
 
 
 ## Motivation
+<div align="justify">
 Commercial and residential buildings in San Francisco are subject to strict code enforcement and building regulations. Purpose of the regulations is to maximize public health and safety. In San Francisco,  the Department of Building Inspection (DBI) is the regulatory building safety agency responsible for overseeing building inspections for more than 200,000 buildings. DBI, as probably most similar agencies out there, do not nearly have the capacity to conduct inspections in all these buildings. Due to limited capacity, agencies need to prioritize inspections based on various criteria. Depending on the resources and analitical proficiency, quality of the prioritization can vary a lot  and there is usually room for significant improvements.
+
 
 Having in mind this and the fact that San Francisco nurtures open data policy, we at Flow&Form wanted to explore the possibility of using Machine Learning for predicting building violations. In other words, we wanted to explore the potential of using Machine Learning for augmenting city decision making processes by detecting which buildings are likely to fail and which are likely to pass the following inspection. On top of that, there are industries such as the insurance industry that could find the information about the existing and probable future non compliant buildings interesting.
 
